@@ -1,0 +1,10 @@
+Henry 4
+Messi 2
+Ronaldo 3
+Xavi 2
+Neymar 1
+Silva 5
+Buffon 5
+Rooney 4
+Muller 4
+Puyol 5
